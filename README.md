@@ -9,7 +9,7 @@ Welcome to the **Data-Filtering-Playground** This repository is dedicated to exp
 
 ## Introduction
 
-The `loc` function in Pandas is a versatile tool for accessing specific rows and columns in a DataFrame using labels or boolean arrays. This playground provides various examples and scenarios to illustrate its usage effectively.
+The `loc` function in Pandas is a tool for accessing specific rows and columns in a DataFrame using labels or boolean arrays. This playground provides various examples and scenarios to illustrate its usage effectively.
 
 ## Objectives
 
@@ -17,3 +17,5 @@ The `loc` function in Pandas is a versatile tool for accessing specific rows and
 - Understand alternatives to `loc`
 - Practice filtering data using Boolean indexing and string methods
 - Gain hands-on experience with real-world data manipulation tasks
+
+
